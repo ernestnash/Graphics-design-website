@@ -1,13 +1,11 @@
 
 TITLE: 
-Nitro - Fully Responsive Free HTML5 template
+KevGraphics - Fully Responsive wesite by Nashon Ernest
 
 AUTHOR:
-DESIGNED & DEVELOPED by FREEHTML5.co
+DESIGNED & DEVELOPED by Nashon Ernest
 
-Website: http://freehtml5.co/
-Twitter: http://twitter.com/fh5co
-Facebook: http://facebook.com/fh5co
+github: https://github.com/ernestnash
 
 
 CREDITS:
@@ -54,4 +52,7 @@ https://github.com/mhuggins/jquery-countTo
 
 Google Map
 https://maps.google.com/
+
+template by : freehtml5
+http://freehtml5.co/
 
